@@ -1,0 +1,31 @@
+body{
+    background-color: skyblue;
+}
+h1 {
+    color: #66BFBF
+
+}
+h3{
+    color: #66BFBF
+}
+hr{
+    background-color: white;
+    border-style:  none ;
+    border-color: grey;
+    border-width: 20px;
+
+    /* height: 0px; */
+    width: 30%;
+}
+
+
+
+.bacon
+{
+    background-color: green;
+
+}
+.brocolli
+{
+    background-color:  skyblue;
+}
